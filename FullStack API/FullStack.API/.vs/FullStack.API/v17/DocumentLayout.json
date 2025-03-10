@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|c:\\users\\migz atienza\\desktop\\angular app\\fullstack api\\fullstack.api\\fullstack.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|c:\\users\\migz atienza\\desktop\\angular app\\fullstack api\\fullstack.api\\fullstack.api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|c:\\users\\migz atienza\\desktop\\angular app\\fullstack api\\fullstack.api\\fullstack.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|c:\\users\\migz atienza\\desktop\\angular app\\fullstack api\\fullstack.api\\fullstack.api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|c:\\users\\migz atienza\\desktop\\angular app\\fullstack api\\fullstack.api\\fullstack.api\\controllers\\employeesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\controllers\\employeesapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|c:\\users\\migz atienza\\desktop\\angular app\\fullstack api\\fullstack.api\\fullstack.api\\dao\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\dao\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|c:\\users\\migz atienza\\desktop\\angular app\\fullstack api\\fullstack.api\\fullstack.api\\data\\fullstackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\data\\fullstackdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|c:\\users\\migz atienza\\desktop\\angular app\\fullstack api\\fullstack.api\\fullstack.api\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|c:\\users\\migz atienza\\desktop\\angular app\\fullstack api\\fullstack.api\\fullstack.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD90356-E726-47D4-95B7-82EE63A0331F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD90356-E726-47D4-95B7-82EE63A0331F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|c:\\users\\migz atienza\\desktop\\angular app\\fullstack api\\fullstack.api\\fullstack.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|c:\\users\\migz atienza\\desktop\\angular app\\fullstack api\\fullstack.api\\fullstack.api\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|c:\\users\\migz atienza\\desktop\\angular app\\fullstack api\\fullstack.api\\fullstack.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|c:\\users\\migz atienza\\desktop\\angular app\\fullstack api\\fullstack.api\\fullstack.api\\.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A73EDCB0-BDEF-4CFF-85E7-826EE1828431}|FullStack.API\\FullStack.API.csproj|solutionrelative:fullstack.api\\.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD90356-E726-47D4-95B7-82EE63A0331F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\windowsformsapp1\\fullstackdbdataset.xsc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BBD90356-E726-47D4-95B7-82EE63A0331F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\fullstackdbdataset.xsc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD90356-E726-47D4-95B7-82EE63A0331F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\windowsformsapp1\\fullstackdbdataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD90356-E726-47D4-95B7-82EE63A0331F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\fullstackdbdataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD90356-E726-47D4-95B7-82EE63A0331F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\windowsformsapp1\\fullstackdbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{BBD90356-E726-47D4-95B7-82EE63A0331F}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\fullstackdbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 162,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FullStackDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\Data\\FullStackDbContext.cs",
+              "RelativeDocumentMoniker": "FullStack.API\\Data\\FullStackDbContext.cs",
+              "ToolTip": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\Data\\FullStackDbContext.cs",
+              "RelativeToolTip": "FullStack.API\\Data\\FullStackDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:57:26.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\Controllers\\EmployeesAPIController.cs",
+              "RelativeDocumentMoniker": "FullStack.API\\Controllers\\EmployeesAPIController.cs",
+              "ToolTip": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\Controllers\\EmployeesAPIController.cs",
+              "RelativeToolTip": "FullStack.API\\Controllers\\EmployeesAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T01:01:40.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FullStack.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FullStack.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T00:59:49.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\appsettings.json",
+              "RelativeDocumentMoniker": "FullStack.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\appsettings.json",
+              "RelativeToolTip": "FullStack.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T08:33:53.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "FullStack.API\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\Models\\Login.cs",
+              "RelativeToolTip": "FullStack.API\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T01:01:14.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "FullStack.API\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\Services\\TokenService.cs",
+              "RelativeToolTip": "FullStack.API\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T01:19:05.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "FullStack.API\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\Models\\Employee.cs",
+              "RelativeToolTip": "FullStack.API\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:23:20.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\Program.cs",
+              "RelativeDocumentMoniker": "FullStack.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\Program.cs",
+              "RelativeToolTip": "FullStack.API\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T01:01:49.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\DAO\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "FullStack.API\\DAO\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\DAO\\EmployeeRepository.cs",
+              "RelativeToolTip": "FullStack.API\\DAO\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:03:13.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "FullStack.API\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "FullStack.API\\Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T07:44:02.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FullStack.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FullStack.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T08:43:26.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:20:53.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "FullStack.API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "FullStack.API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T06:53:31.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FullstackDbDataSet.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\WindowsFormsApp1\\FullstackDbDataSet.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FullstackDbDataSet.Designer.cs",
+              "ToolTip": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\WindowsFormsApp1\\FullstackDbDataSet.Designer.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\FullstackDbDataSet.Designer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T03:13:39.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FullstackDbDataSet.xsc",
+              "DocumentMoniker": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\WindowsFormsApp1\\FullstackDbDataSet.xsc",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FullstackDbDataSet.xsc",
+              "ToolTip": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\WindowsFormsApp1\\FullstackDbDataSet.xsc",
+              "RelativeToolTip": "WindowsFormsApp1\\FullstackDbDataSet.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2025-02-26T03:13:51.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": ".filenesting.json",
+              "DocumentMoniker": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\.filenesting.json",
+              "RelativeDocumentMoniker": "FullStack.API\\.filenesting.json",
+              "ToolTip": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\.filenesting.json",
+              "RelativeToolTip": "FullStack.API\\.filenesting.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T08:02:14.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FullstackDbDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\WindowsFormsApp1\\FullstackDbDataSet.xsd",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FullstackDbDataSet.xsd",
+              "ToolTip": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\WindowsFormsApp1\\FullstackDbDataSet.xsd",
+              "RelativeToolTip": "WindowsFormsApp1\\FullstackDbDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2025-02-26T02:02:17.233Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

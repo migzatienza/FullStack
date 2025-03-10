@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "QF6z+K91Er7Vugy7WuUs+u+v9F79x//XpjLrW7iWKN8=",
+  "Source": "FullStack.API",
+  "BasePath": "_content/FullStack.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FullStack.API\\wwwroot",
+      "Source": "FullStack.API",
+      "ContentRoot": "C:\\Users\\Migz Atienza\\Desktop\\Angular App\\FullStack API\\FullStack.API\\FullStack.API\\wwwroot\\",
+      "BasePath": "_content/FullStack.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
